@@ -1,0 +1,4 @@
+const user = { name: "Prakhar", age: 20, country: "India" };
+const { name, country } = user;
+console.log(name); // "Prakhar"
+console.log(country); // "India"
